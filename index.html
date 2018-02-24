@@ -2,7 +2,17 @@
 layout: default
 title: Hank Quinlan, Horrible Cop
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Hank JDWJDWADIOWAIODJAWOI!</h1>
-	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
+<div class="project-selector">
+	{% for project in site.projects %}
+		<div class="project-preview">
+			<img class="preview-image" src="/assets/{{ project.id }}.jpg">
+			<div class="project-summary-block">
+				<div class="title-and-dates">
+					<h2 class="title">{{project.title}}</h2>
+					<p class="dates">{{project.dates}}</p>
+				</div>
+				<p>{{project.roles}}</p>
+			</div>
+		</div>
+	{% endfor %}
+</div>

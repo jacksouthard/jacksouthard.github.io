@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="project-page">
+  <img class="hero" src="/assets/{{ page.id }}.jpg">
+  <div class="project-summary-block">
+    <div class="title-and-dates">
+      <h2 class="title">{{page.title}}</h2>
+      <p class="dates">{{page.dates}}</p>
+    </div>
+    <p>{{page.roles}}</p>
+  </div>
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+  <div class="gallery">
+    {% for image in page.images %}
+    <div class="image-with-caption">
+      <img src="/assets/{{ image.filename }}">  
+      <p class="caption">{{image.caption}}</p>
+    </div>
+    {% endfor %}
+  </div>
+</div>
