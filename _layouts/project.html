@@ -2,7 +2,12 @@
 layout: default
 ---
 <div class="project-page">
-  <img class="hero" src="/assets/{{ page.id }}.jpg">
+  {% if page.youtubeID != "none" %}
+    {% include youtube.html id=page.youtubeID %}
+  {% else %}
+    <img class="hero" src="/assets/{{ page.id }}_hero.png">
+  {% endif %}
+
   <div class="project-summary-block">
     <div class="title-and-dates">
       <h2 class="title">{{page.title}}</h2>
@@ -18,7 +23,7 @@ layout: default
   <div class="gallery">
     {% for image in page.images %}
     <div class="image-with-caption">
-      <img src="/assets/{{ image.filename }}">  
+      <img src="/assets/projects/{{ image.filename }}">  
       <p class="caption">{{image.caption}}</p>
     </div>
     {% endfor %}
