@@ -1,0 +1,16 @@
+<div class="project-selector">
+	{% for project in site.projects %}
+		<a href="{{project.url}}" title="View project">
+			<div class="project-preview">
+				<img class="preview-image" src="/assets/{{ project.id }}.jpg">
+				<div class="project-summary-block">
+					<div class="title-and-dates">
+						<h2 class="title">{{project.title}}</h2>
+						<p class="dates">{{project.dates}}</p>
+					</div>
+					<p>{{project.roles}}</p>
+				</div>
+			</div>
+		</a>
+	{% endfor %}
+</div>

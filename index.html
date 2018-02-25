@@ -2,19 +2,11 @@
 layout: default
 title: Hank Quinlan, Horrible Cop
 ---
-<div class="project-selector">
-	{% for project in site.projects %}
-		<a href="{{project.url}}" title="View project">
-			<div class="project-preview">
-				<img class="preview-image" src="/assets/{{ project.id }}.jpg">
-				<div class="project-summary-block">
-					<div class="title-and-dates">
-						<h2 class="title">{{project.title}}</h2>
-						<p class="dates">{{project.dates}}</p>
-					</div>
-					<p>{{project.roles}}</p>
-				</div>
-			</div>
-		</a>
-	{% endfor %}
+<div class="home-page">
+	<div class="introduction">
+		<h1>Introduction</h1>
+		<p>Who were the yapists. Where did they come from. Maybe your great, great, great yapist was one.
+		 Yapists are fine, fine apes they say and there is a bit of yape is every ape today</p>
+	</div>
+	{% include project-selector.html %}
 </div>
