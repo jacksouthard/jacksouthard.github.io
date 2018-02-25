@@ -133,7 +133,12 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  
+
+  a {
+    text-decoration: inherit;
+    color: inherit;
+  }
+
   .project-preview {
     width: 343px;
     .preview-image {
