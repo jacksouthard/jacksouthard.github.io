@@ -7,13 +7,13 @@ hasDemo: "false"
 youtubeID: c1ysKaqEOk0
 images:
 - filename: "space_swing_1.png"
-  caption: "[Caption#1] The most popular game on the website! Based on Jack Southard's popular 'Sleigh-stroids' game created in LittleBig Planet 3, Asteroid Escape offers an extreme challenge for those who are extremely bored"
+  caption: "App icon on parallax background."
 - filename: "space_swing_2.png"
-  caption: "[Caption#2] The most popular game on the website! Based on Jack Southard's popular 'Sleigh-stroids' game created in LittleBig Planet 3, Asteroid Escape offers an extreme challenge for those who are extremely bored"
+  caption: "Starting cutscene in which the player runs out of gas in an intense space police chase."
 - filename: "space_swing_3.png"
-  caption: "[Caption#3] The most popular game on the website! Based on Jack Southard's popular 'Sleigh-stroids' game created in LittleBig Planet 3, Asteroid Escape offers an extreme challenge for those who are extremely bored"
+  caption: "A chain allows the player to swing between astroids and spaceships."
 - filename: "space_swing_4.png"
-  caption: "[Caption#4] The most popular game on the website! Based on Jack Southard's popular 'Sleigh-stroids' game created in LittleBig Planet 3, Asteroid Escape offers an extreme challenge for those who are extremely bored"
+  caption: "Example of ship game art created in Sketch"
 ---
 
 ## Description

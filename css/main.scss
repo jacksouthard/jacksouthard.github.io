@@ -80,11 +80,23 @@ body {
     margin-top: 32px;
 }
 
-nav ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    margin-bottom: 32px;
-    list-style: none;
-    font-weight: bold;
+nav {
+  margin-bottom: 32px;
+  text-align: center;
+  a {
+    text-decoration: inherit;
+
+    h1.site-name {
+      font-weight: 400;
+      font-size: 1.2em;
+      color: #868686;
+      letter-spacing: 0.5em;
+      margin-bottom: 24px;
+    }
+    img.wireframe {
+      width: 360px;
+    }
+  }
 }
 nav ul li {
     display: inline;

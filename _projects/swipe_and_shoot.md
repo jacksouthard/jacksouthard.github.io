@@ -4,18 +4,18 @@ title: "Swipe and Shoot"
 roles: "Game Design, 3D Modeling, Level Design"
 dates: "2014-2015"
 hasDemo: "false"
-youtubeID: none
+youtubeID: _397US674KM
 images:
-  - filename: "space_swing_1.jpg"
-    caption: "[Caption#1] The most popular game on the website! Based on Jack Southard's popular 'Sleigh-stroids' game created in LittleBig Planet 3, Asteroid Escape offers an extreme challenge for those who are extremely bored"
-  - filename: "space_swing_2.jpg"
-    caption: "[Caption#2] The most popular game on the website! Based on Jack Southard's popular 'Sleigh-stroids' game created in LittleBig Planet 3, Asteroid Escape offers an extreme challenge for those who are extremely bored"
-  - filename: "space_swing_3.jpg"
-    caption: "[Caption#3] The most popular game on the website! Based on Jack Southard's popular 'Sleigh-stroids' game created in LittleBig Planet 3, Asteroid Escape offers an extreme challenge for those who are extremely bored"
-  - filename: "space_swing_4.jpg"
-    caption: "[Caption#4] The most popular game on the website! Based on Jack Southard's popular 'Sleigh-stroids' game created in LittleBig Planet 3, Asteroid Escape offers an extreme challenge for those who are extremely bored"
+  - filename: "swipe_and_shoot_1.png"
+    caption: ""
+  - filename: "swipe_and_shoot_2.png"
+    caption: ""
+  - filename: "swipe_and_shoot_3.png"
+    caption: ""
+  - filename: "swipe_and_shoot_4.png"
+    caption: ""
 ---
 
 ## Description
 
-[Description] The very first game on the website. This game uses the core mechanics of the basic Unity tutorial 'Roll-a-Ball' combined with gameplay loosely based on the Scratch game of the same name created by Ian Curry. Roll around a maze and collect all 12 cubes to win. The very first game on the website. This game uses the core mechanics of the basic Unity tutorial 'Roll-a-Ball' combined with gameplay loosely based on the Scratch game of the same name created by Ian Curry. Roll around a maze and collect all 12 cubes to win.
+Swipe and shoot your way through an epic 15 level campaign in this fully 3D mobile sensation now playable from you computer! Launch your character into battle by dragging and click to shoot down enemies from afar. Features dozens of costumes, 10 different weapons, 4 awesome vehicles, and much, much more.
