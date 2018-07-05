@@ -1,21 +1,21 @@
 ---
 layout: project
 title: "Swipe and Shoot"
-roles: "Game Design, 3D Modeling, Level Design"
-dates: "2014-2015"
+roles: "Game Design, 3D Modeling, Level Design, Programming"
+dates: "2018"
 hasDemo: "false"
-youtubeID: _397US674KM
+youtubeID: LMqo4mS06lQ
 images:
   - filename: "swipe_and_shoot_1.png"
-    caption: ""
+    caption: "I love to experiment with weird game mechanics so we quickly adopted character movement based solely on diving and rolling."
   - filename: "swipe_and_shoot_2.png"
-    caption: ""
+    caption: "Tapping to shoot was lame in the old game so we added auto shooting to emphasize swiping."
   - filename: "swipe_and_shoot_3.png"
-    caption: ""
+    caption: "We had fun building interesting vehicles including ATVs, Jeeps, and even a chopper."
   - filename: "swipe_and_shoot_4.png"
-    caption: ""
+    caption: "Unlike the original game, we wanted to include a compelling story taking place over five levels."
 ---
 
 ## Description
 
-Swipe and shoot your way through an epic 15 level campaign in this fully 3D mobile sensation now playable from you computer! Launch your character into battle by dragging and click to shoot down enemies from afar. Features dozens of costumes, 10 different weapons, 4 awesome vehicles, and much, much more.
+Swipe and Shoot is a unique iOS game centered around launching your cartoonish soldier into battle in an unlikely effort to save the world from nuclear winter. Made is as a remastered version of Swipe and Shoot, we hoped to address the issues with the previous game and fully express our vision for the game.

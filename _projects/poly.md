@@ -7,13 +7,13 @@ hasDemo: "true"
 youtubeID: none
 images:
   - filename: "poly_1.png"
-    caption: "Fight other players."
+    caption: "Fight up to 15 other players in realtime."
   - filename: "poly_2.png"
     caption: "Dodge larger opponents or hit them in the weak spot."
   - filename: "poly_3.png"
     caption: "Fight to the top of the leaderboard."
   - filename: "poly_4.png"
-    caption: "Attach a variety of parts."
+    caption: "Attach a variety of parts to augment your power."
 ---
 
 ## Description
