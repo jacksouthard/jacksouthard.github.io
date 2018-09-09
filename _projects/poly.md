@@ -2,7 +2,7 @@
 layout: project
 title: "Poly"
 roles: "Game Design, Coding, and Art"
-dates: "2018+"
+dates: "2018"
 hasDemo: "true"
 youtubeID: none
 images:
