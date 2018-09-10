@@ -16,6 +16,9 @@ images:
     caption: ""
 ---
 
+## What I Learned
+Basics of Unity Engine, 3D voxel modeling and texturing, and basic of level and game design.
+
 ## Description
 
 Swipe and shoot your way through an epic 15 level campaign in this fully 3D mobile sensation now playable from you computer! Launch your character into battle by dragging and click to shoot down enemies from afar. Features dozens of costumes, 10 different weapons, 4 awesome vehicles, and much, much more.

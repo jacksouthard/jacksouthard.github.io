@@ -16,6 +16,9 @@ images:
     caption: "Attach a variety of parts to augment your power."
 ---
 
+## What I Learned
+Single server realtime multiplayer with complicated player interactions, player state serialization to sync the characters attached parts and shape, and advanced AI behavior.
+
 ## Description
 
 Poly is an online multiplayer game currently having up to 15 players or AI on a single server. Collect segments to increase your geometric mass and augment your poly with a variety of parts. Fight other players to rack up kills and get on the realtime leaderboard. [Play now](https://playpoly.online)

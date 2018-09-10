@@ -16,6 +16,9 @@ images:
     caption: "Buy upgrades in the shop which save between sessions."
 ---
 
+## What I Learned
+2D animation, 2D lighting through normal mapping, and advanced player progress storage and loading.
+
 ## Description
 
 Astrominer is a single player iOS game centered around risk and reward. You play in the distant future as an Astrominer, tasked with retrieving valuable crystals from alien infested tunnels. Upgrade your equipment with your profit and take on more dangerous asteroids.
