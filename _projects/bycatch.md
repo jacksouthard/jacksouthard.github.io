@@ -6,6 +6,10 @@ dates: "2018"
 hasDemo: "fale"
 youtubeID: none
 images:
+- filename: "bycatch.gif"
+  caption: "Nets are dynamically created based on a drag and close when a loop is made."
+- filename: "bycatch_1.png"
+  caption: "Relevant information is displayed when the player catches a non target species."
 ---
 
 ## What I Learned
