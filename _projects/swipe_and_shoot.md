@@ -21,4 +21,4 @@ Low poly art in Blender, coding complex vehicle behavior, and creating a system 
 
 ## Description
 
-Swipe and Shoot is a unique iOS game centered around launching your cartoonish soldier into battle in an unlikely effort to save the world from nuclear winter. Made is as a remastered version of Swipe and Shoot, we hoped to address the issues with the previous game and fully express our vision for the game. [Download Now](https://itunes.apple.com/us/app/swipe-and-shoot/id1371819562?ls=1&mt=8)
+Swipe and Shoot is a unique iOS game centered around launching your cartoonish soldier into battle in an unlikely effort to save the world from nuclear winter. Made as a remastered version of Swipe and Shoot, we hoped to address the issues with the previous game and fully express our vision for the game. [Download Now](https://itunes.apple.com/us/app/swipe-and-shoot/id1371819562?ls=1&mt=8)

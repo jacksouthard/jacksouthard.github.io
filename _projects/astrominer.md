@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Astrominer"
-roles: "Game Design, Coding, and Art"
+roles: "Game Design, Programming, and Art"
 dates: "2018"
 hasDemo: "false"
 youtubeID: none
@@ -21,4 +21,4 @@ images:
 
 ## Description
 
-Astrominer is a single player iOS game centered around risk and reward. You play in the distant future as an Astrominer, tasked with retrieving valuable crystals from alien infested tunnels. Upgrade your equipment with your profit and take on more dangerous asteroids.
+Astrominer is a single player iOS game centered around risk and reward. You play in the distant future as an Astrominer, tasked with retrieving valuable crystals from alien infested tunnels. Upgrade your equipment with your profit and take on more dangerous asteroids. I drew influence from ridiculous physics in popular games and decided to make a game centered around gun recoil.

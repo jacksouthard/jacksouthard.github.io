@@ -7,7 +7,7 @@ hasDemo: "fale"
 youtubeID: none
 images:
 - filename: "bycatch.gif"
-  caption: "Nets are dynamically created based on a drag and close when a loop is made."
+  caption: "Nets are dynamically created after dragging in a circle."
 - filename: "bycatch_1.png"
   caption: "Relevant information is displayed when the player catches a non target species."
 ---
@@ -17,7 +17,7 @@ Fish schooling behavior and dynamic net generation.
 
 ## Description
 
-Bycatch is a simple app made as part of a summer project at COSMOS on the bycatch of countless animals when fishing. Drag to create your net and catch all the fish while avoiding the bycatch. [Download Now](https://itunes.apple.com/us/app/bycatch/id1415541807?ls=1&mt=8)
+Bycatch is a simple app made as part of a summer project at COSMOS on the bycatch of countless animals when fishing. Drag to create your net and catch all the fish while avoiding the bycatch. I wanted to make my project stand out among the other boring posters so I decided to publish an educational app over the span of a couple weeks. [Download Now](https://itunes.apple.com/us/app/bycatch/id1415541807?ls=1&mt=8)
 
 Bycatch is all the wasted and discarded catch from commercial fishies. It often occurs when fishies use nonselective nets which can span miles in the ocean, entangling whatever animal that touches them. It is a huge problem as bycatch makes up an estimated 40% of the worlds fishery catch and has the potential to destroy entire ecosystems.
 
