@@ -1,5 +1,6 @@
 ---
 layout: project
+order: 2
 title: "Poly"
 roles: "Game Design, Programming, and Art"
 dates: "2018"
@@ -21,6 +22,6 @@ Single server realtime multiplayer with complicated player interactions, player 
 
 ## Description
 
-I always wanted to make a multiplayer game, but was frustrated with its complexity. However, after three failed attempts, I was able to complete Poly, an online multiplayer game supporting up to 15 players or AI. It draws heavily influence from the geometry class I was taking when I original game up with the idea. Collect segments to increase your geometric mass and augment your poly with a variety of parts. Fight other players to rack up kills and get on the realtime leaderboard.
+I always wanted to make a multiplayer game, but was frustrated with its complexity. However, after three failed attempts, I was able to complete Poly, an online multiplayer game supporting up to 15 players or AI. It draws heavy influence from the geometry class I was taking when I original game up with the idea. Collect segments to increase your geometric mass and augment your poly with a variety of parts. Fight other players to rack up kills and get on the realtime leaderboard.
 
 [comment]: <[Play now](https://playpoly.online)>

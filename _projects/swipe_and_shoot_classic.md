@@ -1,5 +1,6 @@
 ---
 layout: project
+order: 5
 title: "Swipe and Shoot Classic"
 roles: "Game Design, 3D Modeling, Level Design"
 dates: "2014-2015"
@@ -21,4 +22,4 @@ Basics of Unity Engine, 3D voxel modeling and texturing, and basic of level and 
 
 ## Description
 
-Swipe and shoot your way through an epic 15 level campaign in this fully 3D mobile sensation now playable from you computer! Launch your character into battle by dragging and click to shoot down enemies from afar. Features dozens of costumes, 10 different weapons, 4 awesome vehicles, and much, much more. Working on this project with by best friend in Freshmen year made me realize how much was possible, even for an amatuer like me.
+Swipe and shoot your way through an epic 15 level campaign in this fully 3D mobile sensation now playable from you computer! Launch your character into battle by dragging and click to shoot down enemies from afar. Features dozens of costumes, 10 different weapons, 4 awesome vehicles, and much, much more. Working on this project with by best friend in Freshmen year made me realize how much was possible, even for an amateur like me.

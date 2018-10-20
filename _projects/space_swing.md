@@ -1,5 +1,6 @@
 ---
 layout: project
+order: 7
 title: "Space Swing"
 roles: "Game Design, Art, Programming"
 dates: "2017"

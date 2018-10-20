@@ -1,5 +1,6 @@
 ---
 layout: project
+order: 1
 title: "Swipe and Shoot"
 roles: "Game Design, 3D Modeling, Level Design, Programming"
 dates: "2018"

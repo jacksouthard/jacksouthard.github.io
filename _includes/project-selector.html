@@ -1,5 +1,6 @@
 <div class="project-selector">
-	{% for project in site.projects %}
+	{% assign sorted = (site.projects | sort: 'order') %}
+	{% for project in sorted %}
 		{% unless page.url == project.url %}
 		<a href="{{project.url}}" title="View project">
 			<div class="project-preview">

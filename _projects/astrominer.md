@@ -1,5 +1,6 @@
 ---
 layout: project
+order: 3
 title: "Astrominer"
 roles: "Game Design, Programming, and Art"
 dates: "2018"
